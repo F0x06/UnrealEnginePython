@@ -1,5 +1,3 @@
-#pragma once
-
 #include "PythonHouseKeeper.h"
 
 void FUnrealEnginePythonHouseKeeper::AddReferencedObjects(FReferenceCollector& InCollector)
